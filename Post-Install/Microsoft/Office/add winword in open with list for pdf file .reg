@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.pdf\OpenWithList]
+"b"="Winword.exe"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Applications\WINWORD.EXE\SupportedTypes]
+".pdf"=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ApplicationAssociationToasts]
+"Applications\\Winword.exe_.pdf"=dword:00000000
