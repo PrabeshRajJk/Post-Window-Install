@@ -11,9 +11,9 @@ sc config OneDriveSetup start= disabled
 sc config Wechat start= disabled
 sc config Viber start= disabled
 sc config IDMan start= disabled
-:: sc config  start= disabled
-:: sc config  start= disabled
-:: sc config  start= disabled
+sc config edgeupdate start= disabled
+sc config XboxNetApiSvc start= disabled
+sc config XblAuthManager start= disabled
 :: sc config  start= disabled
 :: sc config "servicename" start= disabled
 
