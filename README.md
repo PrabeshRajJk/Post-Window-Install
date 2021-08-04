@@ -1,32 +1,19 @@
  <h3 align="center">-Windows-</h3>
 
   <p align="center">
-    tools , links , ideas for windows
+    Tools , Links , Ideas.... all you need for windows
        <br />
-    <a href="https://github.com/PrabeshRajJk?tab=repositories">Repositories Demo</a>
+    <a href="https://github.com/PrabeshRajJk?tab=repositories">Repositories</a>
     ·
     <a href="https://github.com/login?return_to=%2FPrabeshRajJk">Follow</a>
   </p>
 </p>
-<!-- Windows BackUp -->
-<details open="close">
-  <summary>Windows BackUp</summary>
-  <ol>
-    <li>
-      <a href="#back-up">Back Up</a>
-      <ul>
-        <li><a href="#wifi-backup">WiFi BackUp</a></li>
-      </ul>
-    </li>
-      </ol>
-</details>
-
 <!-- Windows Download -->
-<details open="close">
+<details close="close">
   <summary>Windows Download</summary>
   <ol>
   <li>
-    <li><a href="# Windows Media Creation Tool>Windows Media Creation Tool</a></li>
+    <li><a href="# Windows Media Creation Tool">Windows Media Creation Tool</a></li>
     <li><a href="# Rufus"> Rufus</a></li>
     </li>
      </ol>
@@ -35,24 +22,37 @@
 
 <!-- Office Packages -->
 <details open="close">
-  <summary>Download office packages, language english </summary>
+  <summary>Download office packages, English language </summary>
   <ol>
-  <li>
-     <li><a href="# Office 365">Office 365</a></li>
+   <li><a href="# Office 365">Office 365</a></li>
     <li><a href="# Office 2019">Office 2019</a></li>
     <li><a href="# Office 2016"> Office 2016</a></li>
-    </li>
-     </ol>
+  </ol>
 </details>
 
+<!-- WIFI -->
+<details close="close">
+  <summary>BackUp  wifi passwords and restore them </summary>
+  <ol>
+    <li>
+      <a href="#Wifi Back Up & Restore">Wifi Back Up & Restore</a>
+      <ul>
+       <li><a href="#WiFi BackUp">Wifi Back Up</a></li>
+       <li><a href="#WiFi Restore">WiFi Restore</a></li>
+      </ul>
+    </li>
+      </ol>
+</details>
 
+<!-- Wifi Back Up & Restore -->
+## Wifi Back Up & Restore
 
 ### WiFi BackUp
 
-Wifi Back up 
-[wifi-backup-url](https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Export%20wifi%20from%20Windows%20in%20xml%20format.bat)
+[ Wifi Back up ](https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Export%20wifi%20from%20Windows%20in%20xml%20format.bat)
 
-[wifi-restore-url]: https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Import%20wifi%20to%20Windows%20from%20xml%20format.bat
+### WiFi Restore
+[wifi-restore](https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Import%20wifi%20to%20Windows%20from%20xml%20format.bat)
 
 ## Rufus
 
