@@ -12,16 +12,15 @@
 <details close="close">
   <summary>Windows Download</summary>
   <ol>
-  <li>
-    <li><a href="# Windows Media Creation Tool">Windows Media Creation Tool</a></li>
     <li><a href="# Rufus"> Rufus</a></li>
-    </li>
-     </ol>
+  
+   <li><a href="# Windows Media Creation Tool">Windows Media Creation Tool</a></li>
+      </ol>
 </details>
 
 
 <!-- Office Packages -->
-<details open="close">
+<details close="close">
   <summary>Download office packages, English language </summary>
   <ol>
    <li><a href="# Office 365">Office 365</a></li>
@@ -30,35 +29,34 @@
   </ol>
 </details>
 
+<!-- Microsoft Expression -->
+<details close="close">
+  <summary> Windows miscellaneous </summary>
+  <ol>Microsoft Expression</a></li>
+  </ol>
+</details>
+
 <!-- WIFI -->
 <details close="close">
   <summary>BackUp  wifi passwords and restore them </summary>
   <ol>
     <li>
-      <a href="#Wifi Back Up & Restore">Wifi Back Up & Restore</a>
-      <ul>
-       <li><a href="#WiFi BackUp">Wifi Back Up</a></li>
-       <li><a href="#WiFi Restore">WiFi Restore</a></li>
+     <ul>
+       <li><a href="https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Export%20wifi%20from%20Windows%20in%20xml%20format.bat">Wifi Back Up</a></li>
+       <li><a href="https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Import%20wifi%20to%20Windows%20from%20xml%20format.bat">WiFi Restore</a></li>
       </ul>
     </li>
       </ol>
 </details>
 
-<!-- Wifi Back Up & Restore -->
-## Wifi Back Up & Restore
-
-### WiFi BackUp
-
-[ Wifi Back up ](https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Export%20wifi%20from%20Windows%20in%20xml%20format.bat)
-
-### WiFi Restore
-[wifi-restore](https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Import%20wifi%20to%20Windows%20from%20xml%20format.bat)
-
+<!-- Rufus -->
 ## Rufus
+[Rufus Github release](https://github.com/pbatard/rufus/releases/tag/v3.15)
 
-download Windows iso files using rufus 
- if you want to download using windows Media Creational Tools link is provided below 
- 
+Note: You can download Windows iso files using Rufus 
+     Create bootable usb
+     or Create Windows on the go
+
 <!-- Windows Media Creation Tool -->
 ## Windows Media Creation Tool
 * [ Windows 10](https://www.microsoft.com/it-it/software-download/windows10?WT.mc_id=AZ-MVP-5003202)
@@ -75,7 +73,7 @@ download Windows iso files using rufus
 ## Office 2019
 Office 2019 English, US 
 * [ Home and Student](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2019Retail.img)
-* [ Professional] (https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Professional2019Retail.img)
+* [ Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Professional2019Retail.img)
 * [ Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2019Retail.img)
 
 <!-- Office 2016 -->
@@ -84,9 +82,6 @@ Office 2019 English, US
 * [ Home and Student](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudentRetail.img)
 * [ Professional](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProfessionalRetail.img)
 * [ Professional Plus](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img)
-
-
-
 
 <!-- Microsoft Expression -->
 ## Microsoft Expression 
