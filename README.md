@@ -42,9 +42,11 @@
       </li>
      </details>
 
+##Note
+To open link in new tab press & hold ctrl on keyboard then click the link
 <!-- Rufus -->
 ## Rufus
-[Rufus Github release]((https://github.com/pbatard/rufus/releases/tag/v3.15){:target="_blank" rel="noopener"})
+[Rufus Github release](https://github.com/pbatard/rufus/releases/tag/v3.15)
 
 Note: You can download Windows iso files using Rufus 
      Create bootable usb
