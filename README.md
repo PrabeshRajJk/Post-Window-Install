@@ -11,11 +11,9 @@
 <!-- Windows Download -->
 <details close="close">
   <summary>Windows Download</summary>
-  <ol>
-    <li><a href="# Rufus"> Rufus</a></li>
-  
-   <li><a href="# Windows Media Creation Tool">Windows Media Creation Tool</a></li>
-      </ol>
+     <li><a href="# Rufus"> Rufus</a></li>
+  <li><a href="# Windows Media Creation Tool">Windows Media Creation Tool</a></li>
+    
 </details>
 
 
@@ -39,15 +37,10 @@
 <!-- WIFI -->
 <details close="close">
   <summary>BackUp  wifi passwords and restore them </summary>
-  <ol>
-    <li>
-     <ul>
        <li><a href="https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Export%20wifi%20from%20Windows%20in%20xml%20format.bat">Wifi Back Up</a></li>
        <li><a href="https://raw.githubusercontent.com/PrabeshRajJk/Windows-Pre-Post-Install-tools/main/Pre%20Install/WiFi/Wifi_Profile/Import%20wifi%20to%20Windows%20from%20xml%20format.bat">WiFi Restore</a></li>
-      </ul>
-    </li>
-      </ol>
-</details>
+      </li>
+     </details>
 
 <!-- Rufus -->
 ## Rufus
