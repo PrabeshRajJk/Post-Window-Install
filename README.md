@@ -42,7 +42,8 @@
       </li>
      </details>
 
-##Note
+
+## Note
 To open link in new tab press & hold ctrl on keyboard then click the link
 <!-- Rufus -->
 ## Rufus
