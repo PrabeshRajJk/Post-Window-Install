@@ -44,7 +44,7 @@
 
 <!-- Rufus -->
 ## Rufus
-[[Rufus Github release](https://github.com/pbatard/rufus/releases/tag/v3.15){:target="_blank" rel="noopener"}]
+[Rufus Github release]((https://github.com/pbatard/rufus/releases/tag/v3.15){:target="_blank" rel="noopener"})
 
 Note: You can download Windows iso files using Rufus 
      Create bootable usb
